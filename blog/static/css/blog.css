@@ -42,6 +42,12 @@ h4 {
     font-size: 26pt;
     margin-right: 20px;
 }
+.top-menu-user {
+    color: #ffffff;
+    float: right;
+    font-size: 12pt;
+    margin: 0 20px;
+}
 
 .post {
     margin-bottom: 70px;
